@@ -53,10 +53,7 @@ const LeftNav = () => {
                         </React.Fragment>
                     );
                 })}
-                <hr className="my-5 border-white/[0.2]" />
-                <div className="text-white/[0.5] text-[12px]">
-                    Clone by: JS Dev Hindi
-                </div>
+                
             </div>
         </div>
     );
